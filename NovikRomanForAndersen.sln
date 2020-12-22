@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovikRomanForAndersen", "NovikRomanForAndersen\NovikRomanForAndersen.csproj", "{B0CE3BEA-1003-454C-8C85-A9E113BB6D24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_1", "NovikRomanForAndersen\Task_1.csproj", "{B0CE3BEA-1003-454C-8C85-A9E113BB6D24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Task_2\Task_2.csproj", "{AE43EAEC-89D2-4664-B264-FCC5D0634B39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3", "Task_3\Task_3.csproj", "{A699BACC-78E6-4148-8F80-693F86101FC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{B0CE3BEA-1003-454C-8C85-A9E113BB6D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0CE3BEA-1003-454C-8C85-A9E113BB6D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0CE3BEA-1003-454C-8C85-A9E113BB6D24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE43EAEC-89D2-4664-B264-FCC5D0634B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE43EAEC-89D2-4664-B264-FCC5D0634B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE43EAEC-89D2-4664-B264-FCC5D0634B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE43EAEC-89D2-4664-B264-FCC5D0634B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A699BACC-78E6-4148-8F80-693F86101FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A699BACC-78E6-4148-8F80-693F86101FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A699BACC-78E6-4148-8F80-693F86101FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A699BACC-78E6-4148-8F80-693F86101FC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
